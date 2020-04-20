@@ -1,0 +1,16 @@
+.pagination{
+    ul,li{
+        list-style: none;
+  display: inline;
+  padding-left: 0px;
+    }
+    li{
+        margin: 5px;
+    }
+   
+}
+.btn-active{
+    background-color: blue;
+    color: white;
+    border-color:blue;
+}
